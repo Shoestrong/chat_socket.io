@@ -1,2 +1,2 @@
 # chat_socket.io
-一个小demo
+在node中运行app.js
